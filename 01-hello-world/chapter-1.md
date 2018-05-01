@@ -1,13 +1,13 @@
 
 # Chapter 1, Hello World
 
-Most programmers first program in C will be the traditional "Hello, World" program. 
+Most programmer's first program will be the traditional "Hello, World" program. 
 
-However, there are many, cooler things we could output. 
+However, there are many, cooler things we could do...
 
 ## "printf" - Print with Formatting
 
-Documentation for `printf` can be found [here] (http://www.cplusplus.com/reference/cstdio/printf/ "click for docs")
+Documentation for `printf` can be found [at this link](http://www.cplusplus.com/reference/cstdio/printf/ "click for docs")
 
 ### Quick Examples
 
