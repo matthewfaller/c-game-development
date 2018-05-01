@@ -9,8 +9,9 @@ A series of practice programs on the road to game development
 ###  4 - Flow of Control (Basic)
 ###  5 - Flow of Control (Adv.)
 ###  6 - Functions
-###  7 - Pointers
-###  8 - Memory
-###  9 - Structs
-### 10 - Data structures
-### 11 - Algorithms
+###  7 - Unit Testing
+###  8 - Pointers
+###  9 - Memory
+### 10 - Structs
+### 11 - Data structures
+### 12 - Algorithms
