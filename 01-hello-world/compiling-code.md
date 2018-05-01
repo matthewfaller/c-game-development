@@ -5,7 +5,7 @@
 Compiling
 
 ```bash
-gcc sourceFile.c
+gcc hello.c
 ```
 
 Running
@@ -16,10 +16,10 @@ Running
 
 Compile with _named_ output file
 ```bash
-gcc sourceFile.c -o myProgram.exe
+gcc hello.c -o hello.exe
 ```
 
 Running
 ```bash
-./myProgram.exe
+./hello.exe
 ```
